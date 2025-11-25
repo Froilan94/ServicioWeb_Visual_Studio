@@ -33,8 +33,6 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast");
 
-app.Run();
-
 app.MapGet("/datos_de_mi_husky", () =>
 {
     return new DatosDeMiHusky(
