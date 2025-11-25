@@ -35,15 +35,15 @@ app.MapGet("/weatherforecast", () =>
 
 app.Run();
 
-app.MapGet("/datosdemi_gato", () =>
+app.MapGet("/datos_de_mi_husky", () =>
 {
-    return new DatosdemiGato(
-            Nombre: "Osito",
-            Edad: 2,
-            Peso: "5kg"
-        );
+    return new DatosDeMiHusky(
+        Nombre: "Boby",
+        Edad: 2,
+        Genero: "Macho"
+    );
 })
-.WithName("GetDatosdemiGato");
+.WithName("GetDatosDeMiHusky");
 
 app.Run();
 
@@ -52,4 +52,4 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
 
-record DatosdemiGato(string Nombre, int Edad, string Peso);
+record DatosDeMiHusky(string Nombre, int Edad, string Genero);

@@ -62,3 +62,4 @@ C:\Users\FroAn\OneDrive\Documentos\Nueva_carpeta\Docs\Universidad\Paginas\Servic
 C:\Users\FroAn\OneDrive\Documentos\Nueva_carpeta\Docs\Universidad\Paginas\ServicioWeb_Visual_Studio\ServicioWeb\obj\Debug\net9.0\ServicioWeb.pdb
 C:\Users\FroAn\OneDrive\Documentos\Nueva_carpeta\Docs\Universidad\Paginas\ServicioWeb_Visual_Studio\ServicioWeb\obj\Debug\net9.0\ServicioWeb.genruntimeconfig.cache
 C:\Users\FroAn\OneDrive\Documentos\Nueva_carpeta\Docs\Universidad\Paginas\ServicioWeb_Visual_Studio\ServicioWeb\obj\Debug\net9.0\ref\ServicioWeb.dll
+C:\Users\FroAn\OneDrive\Documentos\Nueva_carpeta\Docs\Universidad\Paginas\ServicioWeb_Visual_Studio\ServicioWeb\obj\Debug\net9.0\ServicioWeb.sourcelink.json
